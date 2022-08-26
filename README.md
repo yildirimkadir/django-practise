@@ -1,2 +1,2 @@
 # django-practise
-![](./src/assets/django-practise.db-table.png)
+![](./src/assets/db-table.png)
